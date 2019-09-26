@@ -1,6 +1,6 @@
 def base_hash
 	monopoly = {
-	  :north_america => "Canada"
+	  :railroads => "Canada"
 	}
 end
 
